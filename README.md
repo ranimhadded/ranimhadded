@@ -10,4 +10,4 @@
 
 🛠️ **Interests:** Full-Stack Development • Cloud Computing • Artificial Intelligence • Mobile Development
 
-📫 **Let's connect:** [LinkedIn](YOUR_LINKEDIN_URL)
+📫 **Let's connect:** [[LinkedIn](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/haddad-ranim-b2780a29a/)
