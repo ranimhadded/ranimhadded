@@ -6,8 +6,8 @@
 
 💡 Always eager to learn, solve problems, collaborate, and explore new technologies.
 
-🌱 **Currently learning:** AWS, Cloud Computing, Docker, React, and AI
+🌱 **Currently learning:** AWS, Docker, React, and AI
 
-🛠️ **Interests:** Full-Stack Development • Cloud Computing • Artificial Intelligence • Mobile Development
+🛠️ **Interests:** Full-Stack Development • Artificial Intelligence • Mobile Development
 
 📫 **Let's connect:** [[LinkedIn](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/haddad-ranim-b2780a29a/)
